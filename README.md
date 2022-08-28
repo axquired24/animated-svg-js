@@ -1,5 +1,5 @@
 # animated-creator
-Animated Text Generator | using https://preactjs.com
+Animated Text Generator | using https://preactjs.com and https://animejs.com
 
 ## CLI Commands
 
