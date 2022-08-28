@@ -1,6 +1,9 @@
 # animated-creator
 Animated Text Generator | using https://preactjs.com and https://animejs.com
 
+# Preview
+https://svg-animator-d7b105.netlify.app
+
 ## CLI Commands
 
 ``` bash
